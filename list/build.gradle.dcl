@@ -1,4 +1,6 @@
 javaLibrary {
+    javaVersion = 17
+
     dependencies {
         implementation("org.apache.commons:commons-text:1.11.0")
     }
