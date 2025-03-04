@@ -14,4 +14,3 @@ plugins {
 include("app")
 include("list")
 include("utilities")
-}
